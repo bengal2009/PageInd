@@ -1,0 +1,2 @@
+C:\Users\Lin\AndroidStudioProjects\Demo_zhy_20_mms_miui_02\app\build\intermediates\classes\debug
+C:\Users\Lin\AndroidStudioProjects\Demo_zhy_20_mms_miui_02\app\build\intermediates\pre-dexed\debug\support-v4-19.1.0-ac67f3761984dffb312fb56bf65813ffbd0cf81d.jar
